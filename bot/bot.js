@@ -24,7 +24,7 @@ bot.onText(/\/start/, (msg) => {
             inline_keyboard: [
                 [{
                     text: "Join Airdrop",
-                    web_app: { url: "https://your-webapp-url.com" }
+                    web_app: { url: "https://alimakbar31.github.io/telegram-airdrop/" }
                 }]
             ]
         }
